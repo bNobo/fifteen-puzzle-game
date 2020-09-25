@@ -1,6 +1,6 @@
 # fifteen puzzle game
 
-The famous "fifteen puzzle game", also know as "Taquin" in french, coded in WPF.
+The famous "fifteen puzzle game", also known as "Taquin" in french, coded in WPF.
 
 ![capture](./capture.png)
 
